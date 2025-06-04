@@ -1,2 +1,1 @@
-# maui-common-tools
-Some tools for NET MAUI applications.
+Some tools for using in MAUI projects, alerts and folder picker.
